@@ -1,9 +1,5 @@
 # Collection of official RGB schemata
 
-![Build](https://github.com/RGB-WG/rgb-schemata/workflows/Build/badge.svg)
-![Tests](https://github.com/RGB-WG/rgb-schemata/workflows/Tests/badge.svg)
-![Lints](https://github.com/RGB-WG/rgb-schemata/workflows/Lints/badge.svg)
-
 [![crates.io](https://img.shields.io/crates/v/rgb-schemata)](https://crates.io/crates/rgb-schemata)
 [![Docs](https://docs.rs/rgb-schemata/badge.svg)](https://docs.rs/rgb-schemata)
 [![Apache-2 licensed](https://img.shields.io/crates/l/rgb-schemata)](./LICENSE)
